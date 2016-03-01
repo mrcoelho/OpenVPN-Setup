@@ -48,10 +48,19 @@ sudo apt-get install git
 
 Then download the latest setup script via the command line with:
 
+Original:
+
 ```shell
 cd
 git clone git://github.com/StarshipEngineer/OpenVPN-Setup
 ```
+
+My version (File edited: server_config.txt):
+```shell
+cd
+git clone git://github.com/mrcoelho/OpenVPN-Setup
+```
+
 
 Execute the script with:
 
