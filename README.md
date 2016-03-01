@@ -48,7 +48,7 @@ sudo apt-get install git
 
 Then download the latest setup script via the command line with:
 
-Original:
+Original (DEPRECATED):
 
 ```shell
 cd
