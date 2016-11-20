@@ -1,3 +1,5 @@
+CHANGED: /home/pi to /home/osmc 
+
 OpenVPN-Setup
 ============
 
